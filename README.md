@@ -1,3 +1,3 @@
-# KHAI_MLcourse
+## DICT Machine Learning Basics
 
-It is a repository for my practice tasks from university.
+Welcome to my machine learning basics repository! This space is dedicated to storing and organizing my practice tasks and projects related to fundamental concepts in machine learning.
